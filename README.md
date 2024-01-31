@@ -1,4 +1,10 @@
 # YOLO-NAS-gradient
+
+## Launch Notebook
+
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/YOLO-NAS-gradient?machine=Free-GPU)
+
+---
 <div align="center" markdown="1">
   <img src="documentation/assets/SG_img/SG - Horizontal Glow 2.png" width="600"/>
  <br/><br/>
